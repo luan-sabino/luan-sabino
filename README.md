@@ -1,9 +1,10 @@
 ### Hi, welcome to my profile 😄👋
 
-- 🌱 I’m currently learning NodeJS, ExpressJS, Javascript ES6, ReactJS.
+- 🌱 I’m currently working  with Laravel, PHP, Angular and CodeIgniter sometimes.
+- :money_with_wings: Using NextJS, TailwindCSS and Laravel on a project freelance job.
 - 📫 How to reach me: @lupsabino on Twitter
 
-Currently i'm a third year student of Computer Science at FCT - UNESP, i love web development and have a crush on mobile.
+Currently i'm close to graduate and at same time far from this.
 
  <div>
   <a href="https://github.com/luan-sabino">
