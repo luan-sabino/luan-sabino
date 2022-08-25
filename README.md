@@ -1,4 +1,4 @@
-### Hi, welcome to my profile 😄👋
+### Hi \\ Salve 😄👋
 
 - 🌱 I’m currently working  with Laravel, PHP, Angular and CodeIgniter sometimes.
 - :money_with_wings: Using NextJS, TailwindCSS and Laravel on a freelance job.
