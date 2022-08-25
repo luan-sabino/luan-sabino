@@ -1,7 +1,7 @@
 ### Hi, welcome to my profile 😄👋
 
 - 🌱 I’m currently working  with Laravel, PHP, Angular and CodeIgniter sometimes.
-- :money_with_wings: Using NextJS, TailwindCSS and Laravel on a project freelance job.
+- :money_with_wings: Using NextJS, TailwindCSS and Laravel on a freelance job.
 - 📫 How to reach me: @lupsabino on Twitter
 
 Currently i'm close to graduate and at same time far from this.
