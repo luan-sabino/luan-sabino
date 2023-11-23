@@ -1,13 +1,22 @@
-### Hi \\ Salve 😄👋
+👋 Olá, eu sou Luan.
 
-- 🌱 I’m currently working  with Laravel, PHP, Angular and CodeIgniter sometimes.
-- :money_with_wings: Using NextJS, TailwindCSS and Laravel on a freelance job.
-- 📫 How to reach me: @lupsabino on Twitter
+👨‍💻 Sobre mim
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, trabalho como Desenvolvedor Fullstack no de desenvolvimento do TPManager. Minha jornada na programação começou a 5 anos atrás, e desde então tenho me dedicado a aprender e evoluir como dev.
 
-Currently i'm close to graduate and at same time far from this.
+🚀 Habilidades
+Linguagens de Programação: Javascript, Typescript, PHP, Kotlin
+Tecnologias e Frameworks: NodeJS, NextJS, TailwindCSS, React Native, React, Laravel
+Outras habilidades: Metodologias Ageis, Git, Jest, 
+🌱 Projetos
+Destaco alguns dos meus projetos pessoais mais recentes:
 
- <div>
-  <a href="https://github.com/luan-sabino">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luan-sabino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-sabino&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[Porto Leads Sender](https://chromewebstore.google.com/detail/porto-leads-sender/facbfdnciplbkfmccjbmflgpcpopgelj?hl=pt-BR): Uma extensão de webscrapping para enviar leads de uma plataforma para outra
+[MCJet](https://mcjet.com.br/): Uma fonte de captação de leads com a exposição de produtos num catalogo digital, possuindo seu proprio CMS feito em Laravel
+
+📫 Como me encontrar
+LinkedIn: [Luan Sabino](https://www.linkedin.com/in/luan-sabino/)
+
+🎯 Objetivos
+Estou sempre buscando aprender algo novo e enfrentar desafios interessantes. Meu objetivo é conseguir me desenvolver a ponto de divulgar e ensinar pessoas com aquilo de aprendi.
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou apenas para bater um papo sobre tecnologia! 😊
