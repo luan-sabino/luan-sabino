@@ -1,28 +1,44 @@
-# 👋 Olá, eu sou Luan.
+# Olá, eu sou o Luan 👋
 
-## 👨‍💻 Sobre mim
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, trabalho como Desenvolvedor Fullstack no de desenvolvimento do TPManager. Minha jornada na programação começou a 5 anos atrás, e desde então tenho me dedicado a aprender e evoluir como dev.
+Sou desenvolvedor fullstack na **[Bisi Works](https://github.com/Bisi-Works)**. Construo produtos para times comerciais: CRM, extensões de navegador, auditoria de atendimento e pipelines com IA que tiram trabalho manual da operação.
 
-## 🚀 Habilidades
+Programo desde 2018 e estudei Ciência da Computação na FCT-Unesp.
 
-Linguagens de Programação: Javascript, Typescript, PHP, Kotlin
+## 🚀 No que estou trabalhando
 
-Tecnologias e Frameworks: NodeJS, NextJS, TailwindCSS, React Native, React, Laravel
+**BW CRM**: CRM comercial web, integrado ao WhatsApp, para equipes de vendas de pequenas e médias empresas e para agências que operam contas de clientes. O MVP já tem login por senha e magic link, papéis (RBAC), multiempresa, funis em Kanban, campos customizados e timeline. Está entrando em produção.
+`NestJS` `Prisma` `PostgreSQL` `Redis` `Next.js` · código privado
 
-Outras habilidades: Metodologias Ageis, Git, Jest, 
+**[Drummond](https://github.com/Bisi-Works/drummond)**: extensão de navegador. Revisa rascunhos de mensagem, faz coaching de vendas com checklist BANT, acompanha o dia do vendedor e gera um relatório diário com IA. Em preparação para a Chrome Web Store.
+`Plasmo` `React` `TypeScript` `OpenRouter`
 
-## 🌱 Projetos
+**Foucault**: auditoria de atendimento. Baixa as conversas, transcreve os áudios, avalia cada atendimento com LLMs (um modelo avaliador e outro como árbitro) e gera um painel de notas por atendente.
+`Python` `Scrapling` `OpenRouter` · código privado
 
-Destaco alguns dos meus projetos pessoais mais recentes:
+**NexiHub**: plataforma de propostas de locação de veículos por assinatura, em produção. Estou reescrevendo a API de Strapi + MySQL para NestJS + Prisma + PostgreSQL: 94 rotas migradas e contrato OpenAPI. Também mantenho um scraper de preços de assinatura de seis marcas.
+`Strapi` `NestJS` `Prisma` `PostgreSQL` `BullMQ` `Next.js` · código privado
 
-[Porto Leads Sender](https://chromewebstore.google.com/detail/porto-leads-sender/facbfdnciplbkfmccjbmflgpcpopgelj?hl=pt-BR): Uma extensão de webscrapping para enviar leads de uma plataforma para outra.
+**BW Tools**: ferramentas internas de planilha para a operação, como relatório de vendas, comissionamento, devolutivas de CRM e mescla de bases com remoção de duplicados.
+`React` `Vite` `TypeScript` · código privado
 
-[MCJet](https://mcjet.com.br/): Uma fonte de captação de leads com a exposição de produtos num catalogo digital, possuindo seu proprio CMS feito em Laravel.
+## 🧪 Laboratório
 
-## 📫 Como me encontrar
-LinkedIn: [Luan Sabino](https://www.linkedin.com/in/luan-sabino/)
+**JEV Leads Lab**: enriquecimento de uma base de 47.783 leads com LLM via OpenRouter. Custou US$ 5,39 no total e acertou 100% da amostra que anotei à mão. Os resultados ficam num dashboard em Streamlit.
 
-## 🎯 Objetivos
-Estou sempre buscando aprender algo novo e enfrentar desafios interessantes. Meu objetivo é conseguir me desenvolver a ponto de divulgar e ensinar pessoas com aquilo de aprendi.
+**Criador de materiais**: protótipo que gera ebooks, e-mails e newsletters a partir de um briefing, de fontes em PDF, DOCX ou Markdown e de pesquisa web.
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou apenas para bater um papo sobre tecnologia! 😊
+## 🛠️ Stack
+
+| | |
+|---|---|
+| **Linguagens** | TypeScript, JavaScript, Python, PHP, Kotlin |
+| **Backend** | NestJS, Node.js, Prisma, Strapi, Laravel, BullMQ |
+| **Frontend** | Next.js, React, Vite, TailwindCSS, React Native |
+| **Dados e infra** | PostgreSQL, MySQL, Redis, Docker, MinIO, Easypanel |
+| **IA** | OpenRouter, LLMs como avaliadores e árbitros, transcrição de áudio, enriquecimento de dados |
+| **Extensões** | Plasmo, Chrome Web Store |
+| **Testes** | Jest, testes E2E, testes de contrato |
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/luan-sabino/) · [X/Twitter](https://twitter.com/lupsabino)
