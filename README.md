@@ -23,7 +23,7 @@ Programo desde 2018 e estudei Ciência da Computação na FCT-Unesp.
 
 ## 🧪 Laboratório
 
-**JEV Leads Lab**: enriquecimento de uma base de 47.783 leads com LLM via OpenRouter. Custou US$ 5,39 no total e acertou 100% da amostra que anotei à mão. Os resultados ficam num dashboard em Streamlit.
+**JEV Leads Lab**: enriquecimento de uma base de 47.783 leads com LLM via OpenRouter. Os resultados ficam num dashboard em Streamlit.
 
 **Criador de materiais**: protótipo que gera ebooks, e-mails e newsletters a partir de um briefing, de fontes em PDF, DOCX ou Markdown e de pesquisa web.
 
